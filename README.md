@@ -1,5 +1,5 @@
 # BoostedOBU 
-The main file is BoostOBU.R, and the supporting files for running the main file are all provide here. 
+The main file is BoostOBU.R, and the supporting files for running the main file are all provided here. 
 To run AdaOBU, in the main file, the user comment Line 53 to leave out Borderline-SMOTE.
 
 Results.zip contains 3 files of our experimental results on 23 real-world datasets as follows:
